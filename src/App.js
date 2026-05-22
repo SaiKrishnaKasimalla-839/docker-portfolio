@@ -1,8 +1,6 @@
 import { useState, useEffect, useRef } from "react";
-
 const TEAL = "#00d4aa";
 const NAV_ITEMS = ["home","about","education","skills","projects","certifications","contact"];
-
 const SKILLS = [
   {name:"Java",level:92,color:"#f89820"},
   {name:"JavaScript",level:82,color:"#e9c920"},
